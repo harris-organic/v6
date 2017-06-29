@@ -1,0 +1,5 @@
+ A customer ordered some items with a Credit Card. I received the order with credit card details. I changed from recaptcha invisible
+ to V2 and viola, the credit card details were blank.
+
+I then made a dummy order and could repeat the above.  Current CC version is 6.1.8 and Credit card capture 1.0.5
+This relates to https://forums.cubecart.com/topic/51398-credit-card-capture-automatic-delete/?page=2#comment-227950
